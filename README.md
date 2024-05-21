@@ -2,6 +2,10 @@
 - 💻 Software Engineer
 - 🌱 Currently learning and exploring new technologies
 - 💬 Ask me about JavaScript, TypeScript, React.js, and more
+<br />
+<br />
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hafizhpratama?cardType=level&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 🏆 Achievements
 
